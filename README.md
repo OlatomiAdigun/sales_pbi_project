@@ -43,7 +43,7 @@
 
 ## Data Cleansing & Transformation
 
-To prepare data for the analysis, the following tables were created and cleansed using SQL.
+To prepare data for the analysis, the following tables(views) were created and cleansed using SQL.
 
 ### SQL Scripts
 
@@ -54,17 +54,17 @@ A clean calendar dimension used to enable date-based analysis.
 
 #### `DIM_Customers`
 
-![DIM_Customers SQL](link-to-dim_customers-image)
+![DIM_Customers SQL](assets/images/sql_query_customer_table.png)
 
 #### `DIM_Products`
 
-![DIM_Products SQL](link-to-dim_products-image)
+![DIM_Products SQL](assets/images/sql_query_dim_products_table.png)
 
 #### `FACT_InternetSales`
 
-![FACT_InternetSales SQL](link-to-fact_internetsales-image)
+![FACT_InternetSales SQL](assets/images/sql_query_fact_internet_table.png)
 
-*SQL scripts are also available as images if needed.*
+
 
 ---
 
@@ -72,8 +72,10 @@ A clean calendar dimension used to enable date-based analysis.
 
 The data model created in Power BI incorporates `FACT_InternetSales`, `DIM_Customers`, `DIM_Products`, and `DIM_Calendar`, along with the sales budget data imported from CSV files. This setup allows for robust cross-table analysis and visualizations.
 
+![Data model](assets/images/datamodel.png)
+
 **Data Model Diagram:**  
-_Screenshot of Power BI data model goes here._
+
 
 ---
 
