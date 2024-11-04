@@ -70,13 +70,11 @@ A clean calendar dimension used to enable date-based analysis.
 
 ## Data Model in Power BI
 
-The data model created in Power BI incorporates `FACT_InternetSales`, `DIM_Customers`, `DIM_Products`, and `DIM_Calendar`, along with the sales budget data imported from CSV files. This setup allows for robust cross-table analysis and visualizations.
-
-![Data model](assets/images/datamodel.png)
+The data model created in Power BI incorporates `FACT_InternetSales`, `DIM_Customers`, `DIM_Products`, and `DIM_Calendar`, along with the sales budget data, `FACT_Budget`, imported from CSV files. This setup allows for robust cross-table analysis and visualizations.
 
 **Data Model Diagram:**  
 
-
+![Data model](assets/images/datamodel.png)
 ---
 
 ## Sales Management Dashboard
@@ -89,6 +87,10 @@ The dashboard consists of:
 
 Each page allows drill-down capabilities for specific time frames, customers, or products as needed by user roles.
 
+- What does the dashboard look like?
+
+![GIF of Power BI Dashboard](assets/images/sales_management_dashboard.gif)
+
 ---
 
 ### Recommendations
@@ -98,4 +100,4 @@ Each page allows drill-down capabilities for specific time frames, customers, or
 
 --- 
 
-Let me know if this layout helps or if you need any additional refinements!
+
