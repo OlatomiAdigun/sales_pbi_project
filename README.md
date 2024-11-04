@@ -50,7 +50,7 @@ To prepare data for the analysis, the following tables were created and cleansed
 #### `DIM_Calendar`
 A clean calendar dimension used to enable date-based analysis.
 
-![DIM_Calendar SQL](link-to-dim_calendar-image)
+![DIM_Calendar SQL](assets/images/sql_query_dim_calender_table.png)
 
 #### `DIM_Customers`
 
