@@ -87,10 +87,41 @@ The dashboard consists of:
 
 Each page allows drill-down capabilities for specific time frames, customers, or products as needed by user roles.
 
-- What does the dashboard look like?
+
+## Sales Overview Dashboard
+
+This page provides a high-level view of internet sales performance, showing key metrics such as total sales, trends over time, and performance against budget.
+
+![Sales Overview Power BI Dashboard](assets/images/sales_overview.png)
+
+---
+
+## Customer Details Dashboard
+
+The Customer Details page offers insights into sales performance by customer, allowing users to track top customers, customer segments, and purchasing patterns.
+
+![Customer Power BI Dashboard](assets/images/customer.png)
+
+---
+
+## Product Details Dashboard
+
+This section focuses on product performance, highlighting top-selling products, sales trends by product category, and comparisons to budget targets.
+
+![Products Power BI Dashboard](assets/images/products.png)
+
+---
+
+## Interactive Sales Management Dashboard (GIF)
+
+Below is a GIF demonstrating the full interactive capabilities of the Sales Management Dashboard, including drill-down features and dynamic filtering for real-time insights.
 
 ![GIF of Power BI Dashboard](assets/images/sales_management_dashboard.gif)
-<img src="assets/images/sales_management_dashboard.gif" alt="GIF of Power BI Dashboard" width="400" height="200">
+
+---
+
+Each section of the dashboard has been designed to enable the sales team to easily track sales trends, customer insights, and product performance over time, empowering data-driven decisions.
+
 
 
 ---
