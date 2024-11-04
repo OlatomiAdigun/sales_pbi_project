@@ -1,4 +1,4 @@
-# Sales Management Dashboard Project Documentation
+# Sales Management Dashboard Project 
 
 ## Table of Contents
 
