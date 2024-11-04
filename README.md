@@ -90,7 +90,7 @@ Each page allows drill-down capabilities for specific time frames, customers, or
 - What does the dashboard look like?
 
 ![GIF of Power BI Dashboard](assets/images/sales_management_dashboard.gif)
-<img src="assets/images/sales_management_dashboard.gif" alt="GIF of Power BI Dashboard" width="800" height="450">
+<img src="assets/images/sales_management_dashboard.gif" alt="GIF of Power BI Dashboard" width="400" height="200">
 
 
 ---
